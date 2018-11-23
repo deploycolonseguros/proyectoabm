@@ -1,7 +1,6 @@
 import java.awt.Color;
 import java.awt.EventQueue;
 import java.awt.Graphics;
-import java.awt.event.*;
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 
