@@ -98,7 +98,7 @@ public class TablaMoto extends JFrame {
 		    label8.setBounds(23, 170, 150, 14);
 		    contentPane.add(label8);
 
-		    JLabel label9 = new JLabel("Codigo de Modelo");
+		    JLabel label9 = new JLabel("Codigo de Modelo000000");
 		    label9.setBounds(23, 190, 150, 14);
 		    contentPane.add(label9);
 		    
